@@ -1,0 +1,5 @@
+ali\pay\AliPayHttp.class
+ali\pay\ServletInitializer.class
+ali\pay\App.class
+ali\pay\AliPay.class
+ali\pay\MessageController.class
